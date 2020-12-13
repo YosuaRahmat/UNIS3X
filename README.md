@@ -3,7 +3,7 @@
 pkg update && pkg upgrade
 pkg install python2
 pkg install git
-git clone https://github.com/vrhasya/UNIS3X
+git clone https://github.com/YosuaRahmat/UNIS3X
 ```
 
 ## Run Script
